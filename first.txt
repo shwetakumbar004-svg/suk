@@ -1,2 +1,7 @@
 this is apple
+<<<<<<< HEAD
 bbjnj
+=======
+meeee
+76837l098
+>>>>>>> 2f20d36658306f7fa5d2c3b368a017b64fd62c41
